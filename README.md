@@ -1,5 +1,9 @@
 Who is Naisu? It's Naisu. ✨
 
+- 🔭 I’m currently learning how to code
+- 🤔 I’m looking for help with JavaScript and so on!
+- 😄 Pronouns: they/them
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisnaisu"/>
 
 <!--
