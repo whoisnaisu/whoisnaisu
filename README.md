@@ -1,7 +1,6 @@
-<div  align="center">
-<h4> Who is Naisu? It's Naisu ✨</h4> 
+<div  align="center"> 
 <h6>I’m currently learning how to code </h6>
-<h6>I’m looking for help with JavaScript and so on! </h6>
+<h6>I’m looking for help with JavaScript and so on </h6>
 <h6>Pronouns: they/them </h6>
 <br />
 <h4>Languages and Tools:</h4>
@@ -12,3 +11,5 @@
 <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoisnaisu"/>
 </div>
+
+  <!-- <h4> Who is Naisu? It's Naisu ✨</h4> -->
