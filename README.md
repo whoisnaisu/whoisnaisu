@@ -1,9 +1,6 @@
 <div  align="center">
 <h3>" It's okay to start again from ZERO,
 even the Array Index starts from ZERO "</h3>
-  
-<h4>I’m currently learning how to code</h4>
-<h4>I’m looking for help with JavaScript and so on</h4>
 <h4>📫Reach me at: napas14204@gmail.com</h4>
 <br />
 <h4>Languages and Tools</h4>
