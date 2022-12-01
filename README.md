@@ -1,9 +1,7 @@
 <div  align="center">
-<h3>" It's okay to start again from ZERO,
-even the Array Index starts from ZERO "</h3>
-
+<h3>"𝘐𝘵'𝘴 𝘰𝘬𝘢𝘺 𝘵𝘰 𝘴𝘵𝘢𝘳𝘵 𝘢𝘨𝘢𝘪𝘯 𝘧𝘳𝘰𝘮 𝘡𝘌𝘙𝘖, 𝘢𝘳𝘳𝘢𝘺 𝘪𝘯𝘥𝘦𝘹 𝘴𝘵𝘢𝘳𝘵𝘴 𝘧𝘳𝘰𝘮 𝘡𝘌𝘙𝘖, 𝘵𝘰𝘰."</h3>
 <br />
-<h4>Languages and Tools</h4>
+<h4>𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 𝘢𝘯𝘥 𝘛𝘰𝘰𝘭𝘴</h4>
 <p class"front-end">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
