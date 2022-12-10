@@ -1,6 +1,9 @@
 <div  align="center">
 <h2>"𝘐𝘵'𝘴 𝘰𝘬𝘢𝘺 𝘵𝘰 𝘴𝘵𝘢𝘳𝘵 𝘢𝘨𝘢𝘪𝘯 𝘧𝘳𝘰𝘮 𝘡𝘌𝘙𝘖, 𝘢𝘳𝘳𝘢𝘺 𝘪𝘯𝘥𝘦𝘹 𝘴𝘵𝘢𝘳𝘵𝘴 𝘧𝘳𝘰𝘮 𝘡𝘌𝘙𝘖, 𝘵𝘰𝘰."</h2>
- <img src="https://github.com/whoisnaisu/whoisnaisu/blob/main/github-whoisnaisu-contribution.svg"/>
+
+![github contribution grid snake animation](https://github.com/whoisnaisu/whoisnaisu/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/whoisnaisu/whoisnaisu/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <br />
  
 <h3>𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 && 𝘛𝘰𝘰𝘭𝘴</h3>
