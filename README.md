@@ -23,6 +23,6 @@
 
 <br />
 
-![gif](https://github.com/whoisnaisu/whoisnaisu/blob/main/pixel-art-8bit-city.gif)
+![gif](https://github.com/whoisnaisu/whoisnaisu/blob/main/pixel-art-flying.gif)
 
 </div>
