@@ -1,5 +1,4 @@
 <div  align="center">
-
 <!-- <h3>𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 && 𝘛𝘰𝘰𝘭𝘴</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -24,5 +23,18 @@
 <br />
 
 ![gif](https://github.com/whoisnaisu/whoisnaisu/blob/main/pixel-art-flying.gif)
+
+
+<br />
+
+<details>
+<summary>Top Languages Stats</summary>
+<br />
+
+![Top Langs](https://readme-state-naisu.vercel.app/api/top-langs/?username=whoisnaisu&layout=donut-vertical)
+
+</details>
+
+
 
 </div>
