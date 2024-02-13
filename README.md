@@ -22,7 +22,7 @@
 
 <br />
 
-![gif](https://github.com/whoisnaisu/whoisnaisu/blob/main/pixel-art-flying.gif)
+<!-- ![gif](https://github.com/whoisnaisu/whoisnaisu/blob/main/pixel-art-flying.gif)  -->
 
 
 <br />
