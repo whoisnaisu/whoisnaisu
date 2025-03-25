@@ -18,7 +18,7 @@
 <summary>WakaTime Stat</summary>
 <br />
   
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@whoisnaisu/49f1259e-2b65-48a7-af2f-a08c8b02ce52.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@form4ldehyde/4563dbc2-b319-4847-8264-c7c4cb2571c3.png" /></a>
 
 </details> 
 
